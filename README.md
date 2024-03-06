@@ -1,2 +1,2 @@
 # leetcode
-Minha resposta para alguns problemas do Leetcode
+Resolução de problemas do Leetcode
